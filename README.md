@@ -49,7 +49,7 @@ Passionate Frontend Developer focused on creating intuitive and responsive user 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
+<div align=center>
 
 <img src="https://github-readme-stats.vercel.app/api?username=puneetuttam&count_private=true&theme=react&border_radius=10">
 
@@ -58,7 +58,7 @@ Passionate Frontend Developer focused on creating intuitive and responsive user 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetuttam&count_private=true&theme=react&border_radius=10" />
 
 
-</p>
+</div>
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
