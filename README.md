@@ -51,11 +51,12 @@ Passionate Frontend Developer focused on creating intuitive and responsive user 
 ## Github Stats
 
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=puneetuttam&count_private=true&theme=react&border_radius=10" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=puneetuttam&count_private=true&theme=react&border_radius=10">
 <img src="https://streak-stats.demolab.com/?user=puneetuttam&count_private=true&theme=react&border_radius=10">
 
-<img style="align=center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetuttam&count_private=true&theme=react&border_radius=10" />
-
+</p>
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetuttam&count_private=true&theme=react&border_radius=10" />
 </p>
 
 
