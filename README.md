@@ -25,7 +25,7 @@ Passionate Frontend Developer focused on creating intuitive and responsive user 
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,appwrite,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
 </tr>
 
@@ -51,9 +51,9 @@ Passionate Frontend Developer focused on creating intuitive and responsive user 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
 
-<img src="https://github-readme-stats.vercel.app/api?username=puneetuttam&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=puneetuttam&count_private=true&theme=react&border_radius=10">
 
-<img src="https://streak-stats.demolab.com/?user=puneetuttam&theme=holi-theme">
+<img src="https://streak-stats.demolab.com/?user=puneetuttam&count_private=true&theme=react&border_radius=10">
 </p>
 
 
